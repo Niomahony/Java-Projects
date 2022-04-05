@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
+// REQUIRES YOUR OWN .CSM FILE TO RUN
+
 public class Dictionary {
 
     private ArrayList<String> words;
