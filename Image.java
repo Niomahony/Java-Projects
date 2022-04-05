@@ -1,5 +1,6 @@
 import java.util.Arrays;
     
+// This program flips arrays horizontally and vertically and also rotates them 90 degrees clockwise and anticlockwise
     public class Image {
 
         private int[][] pixels;
